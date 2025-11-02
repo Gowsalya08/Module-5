@@ -51,6 +51,7 @@ class Parent:
 
 ## Sample Output
 <img width="741" height="179" alt="image" src="https://github.com/user-attachments/assets/aea9b73c-b47a-4578-bc57-b92697c09938" />
+
 ## Result
 Thus, the program has been successfully executed.
 
